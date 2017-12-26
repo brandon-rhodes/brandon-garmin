@@ -44,31 +44,54 @@ class LatLonFieldView extends Ui.DataField
         var c = s.toCharArray();
         var i = 0;
         var j = 0;
+
+        /* The return value of toGeoString() looks like:
+
+           N 38___53'52.30"W 94___46' 8.04"
+
+           where the sequences marked here as "___" are "\356\202\260"
+           which might be a mangled Garmin attempt to create a degree
+           sign.  We scan the string to edit those parts out.
+         */
+
+        // Keep the leading ASCII characters.
         while (c[j].toNumber() < 127) {
             j += 1;
         }
         var lat = s.substring(i, j);
+
+        // Completely skip the subsequent 8-bit characters, and
+        // substitute a real degree symbol instead.
         while (c[j].toNumber() >= 127) {
             j += 1;
         }
         lat += "°";
         i = j;
+
+        // The longitude will start with an "E" or "W", so keep reading
+        // latitude characters only until we reach a character from the
+        // alphabet tiers of ASCII.
         while (c[j].toNumber() < 64) {
             j += 1;
         }
         lat += s.substring(i, j);
         i = j;
 
+        // Now, the same thing for longitude: start with ASCII characters.
         var lon = "";
         while (c[j].toNumber() < 127) {
             j += 1;
         }
         lon += s.substring(i, j);
+
+        // Then skip the 8-bit characters, substituting a degree symbol.
         while (c[j].toNumber() >= 127) {
             j += 1;
         }
         lon += "°";
         i = j;
+
+        // Finally, keep the rest of the string.
         lon += s.substring(i, c.size());
         return [lat, lon];
     }

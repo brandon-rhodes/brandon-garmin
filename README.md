@@ -2,7 +2,7 @@
 Brandon’s Garmin Apps
 =====================
 
-This small repository holds a few apps that I am attempt to write,
+This small repository holds a few apps that I am attempting to write,
 in the hopes of outfitting my Garmin Forerunner 230
 with the ability to display latitude and longitude
 during long backcountry hikes.

@@ -20,25 +20,15 @@ class LatLonFieldView extends Ui.DataField
     //! information. Calculate a value and save it locally in this method.
     function compute(info)
     {
-        if (Activity.Info.currentLocation != null) {
-         Sys.println("notnull");
-        } else {
-         Sys.println("NULL");
-        }
-        Sys.println("println");
-        elev = "Called!";
         if (info.currentLocation != null) {
-            Sys.println("INSIDE");
-            # var s = info.currentLocation.toGeoString(2);
-            # var a = splitGeoString(s);
-            # lat = a[0];
-            # lon = a[1];
+            var s = info.currentLocation.toGeoString(2);
+            var a = splitGeoString(s);
+            lat = a[0];
+            lon = a[1];
             var m = info.altitude;
             var ft = m / 0.3048;
             elev = m.toNumber().toString() + "m = "
                 + ft.toNumber().toString() + "ft";
-        } else {
-            elev = "No current location";
         }
     }
 

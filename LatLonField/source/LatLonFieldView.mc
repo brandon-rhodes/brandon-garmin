@@ -20,7 +20,7 @@ class LatLonFieldView extends Ui.DataField
     //! information. Calculate a value and save it locally in this method.
     function compute(info)
     {
-        if (Activity.Info.currentLocation  != null) {
+        if (Activity.Info.currentLocation != null) {
          Sys.println("notnull");
         } else {
          Sys.println("NULL");

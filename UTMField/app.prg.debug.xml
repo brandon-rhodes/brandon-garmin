@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldApp.mc" id="4" lineNum="9" pc="268435479" symbol="onStart"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldApp.mc" id="5" lineNum="12" pc="268435484" symbol="onStop"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldApp.mc" id="6" lineNum="15" pc="268435489" symbol="getInitialView"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldApp.mc" id="6" lineNum="16" pc="268435493" symbol="getInitialView"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="8" lineNum="17" pc="268435531" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="8" lineNum="19" pc="268435535" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="26" pc="268435554" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="28" pc="268435558" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="29" pc="268435571" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="31" pc="268435575" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="32" pc="268435594" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="33" pc="268435604" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="36" pc="268435614" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="37" pc="268435624" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="38" pc="268435634" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="44" pc="268435695" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="51" pc="268435734" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="52" pc="268436557" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="54" pc="268437909" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="55" pc="268437916" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="56" pc="268437927" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="57" pc="268437934" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="69" pc="268437947" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="70" pc="268437965" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="71" pc="268437994" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="72" pc="268438023" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="74" pc="268438052" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="75" pc="268438070" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="76" pc="268438099" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="9" lineNum="77" pc="268438128" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="10" lineNum="85" pc="268438158" symbol="log"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="10" lineNum="87" pc="268438162" symbol="log"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="92" pc="268438188" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="94" pc="268438192" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="95" pc="268438228" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="97" pc="268438240" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="98" pc="268438259" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="99" pc="268438278" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="100" pc="268438305" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="102" pc="268438332" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="105" pc="268438402" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="106" pc="268438452" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="107" pc="268438502" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="109" pc="268438558" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="110" pc="268438602" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="111" pc="268438652" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/LatLonField/source/LatLonFieldView.mc" id="11" lineNum="113" pc="268438702" symbol="onUpdate"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388899" method="true" symbol="log"/>
+<entry id="10" object="true" symbol="LatLonFieldView"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="22" symbol="elev"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry field="true" id="21" symbol="northing3"/>
+<entry field="true" id="20" symbol="northing2"/>
+<entry field="true" id="19" symbol="northing1"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry field="true" id="18" symbol="easting3"/>
+<entry field="true" id="17" symbol="easting2"/>
+<entry field="true" id="16" symbol="easting1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="15" symbol="zone"/>
+<entry id="9" object="true" symbol="LatLonFieldApp"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268438157" name="Lon" stackId="4" startPc="268435558"/>
+<entry endPc="268438157" name="n" stackId="11" startPc="268435558"/>
+<entry endPc="268438157" name="m" stackId="5" startPc="268435558"/>
+<entry endPc="268438157" name="ft" stackId="6" startPc="268435558"/>
+<entry endPc="268438157" name="Letter" stackId="9" startPc="268435558"/>
+<entry endPc="268438157" name="latlon" stackId="2" startPc="268435558"/>
+<entry endPc="268438157" name="e" stackId="10" startPc="268435558"/>
+<entry endPc="268438157" name="Lat" stackId="3" startPc="268435558"/>
+<entry endPc="268438157" name="Easting" stackId="7" startPc="268435558"/>
+<entry endPc="268438157" name="Northing" stackId="8" startPc="268435558"/>
+<entry endPc="268438158" name="info" stackId="1" startPc="268435554"/>
+<entry endPc="268438188" name="n" stackId="1" startPc="268438158"/>
+<entry endPc="268438769" name="L" stackId="5" startPc="268438192"/>
+<entry endPc="268438769" name="ymid" stackId="3" startPc="268438192"/>
+<entry endPc="268438769" name="R" stackId="4" startPc="268438192"/>
+<entry endPc="268438769" name="xmid" stackId="2" startPc="268438192"/>
+<entry endPc="268438770" name="dc" stackId="1" startPc="268438188"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="150" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="229" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="268" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="299" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="330" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="361" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="392" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="431" parentId="globals" symbolId="LatLonFieldApp" type="class"/>
+<dataEntry offset="502" parentId="globals" symbolId="LatLonFieldView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="LatLonFieldApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="LatLonFieldApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="LatLonFieldApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="LatLonFieldApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="LatLonFieldView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="LatLonFieldView">
+<param id="info"/>
+<documentation><![CDATA[<div class="description"> The given info object contains all the current workout<br/> information. Calculate a value and save it locally in this method.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="log" parent="LatLonFieldView">
+<param id="n"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="LatLonFieldView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Display the value you computed here. This will be called<br/> once a second when the data field is visible.<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

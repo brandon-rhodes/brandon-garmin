@@ -14,13 +14,12 @@ then
 fi
 
 cd $BASE
-#cd LatLonField
-cd UTMField
+#cd LatLonField; NAME=latlonfield
+cd UTMField; NAME=utmfield
 monkeyc -d $DEVICE \
         -f ./monkey.jungle \
-        --output app.prg \
+        --output $NAME.prg \
         --warn \
         -y ~/eclipse-workspace/developer_key.der
 connectiq &
-#monkeydo app.prg vivoactive3
-monkeydo app.prg $DEVICE
+monkeydo $NAME.prg $DEVICE

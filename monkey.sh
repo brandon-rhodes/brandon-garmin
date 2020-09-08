@@ -14,7 +14,8 @@ then
 fi
 
 cd $BASE
-cd LatLonField
+#cd LatLonField
+cd UTMField
 monkeyc -d $DEVICE \
         -f ./monkey.jungle \
         --output app.prg \

@@ -3,7 +3,7 @@ using Toybox.Activity as Act;
 using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
 
-class LatLonFieldView extends Ui.DataField
+class UTMFieldView extends Ui.DataField
 {
     hidden var zone = 12;
     hidden var easting1 = "-";

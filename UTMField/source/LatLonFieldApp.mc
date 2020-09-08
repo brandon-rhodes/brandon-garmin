@@ -1,6 +1,6 @@
 using Toybox.Application as App;
 
-class LatLonFieldApp extends App.AppBase {
+class UTMFieldApp extends App.AppBase {
 
     function initialize() {
         AppBase.initialize();
@@ -13,6 +13,6 @@ class LatLonFieldApp extends App.AppBase {
     }
 
     function getInitialView() {
-        return [ new LatLonFieldView() ];
+        return [ new UTMFieldView() ];
     }
 }

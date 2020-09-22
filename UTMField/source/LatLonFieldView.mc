@@ -25,6 +25,9 @@ class UTMFieldView extends Ui.DataField
     //! information. Calculate a value and save it locally in this method.
     function compute(info)
     {
+        if (info == null) {
+            return;
+        }
         if (info.currentLocation == null) {
             return;
         }

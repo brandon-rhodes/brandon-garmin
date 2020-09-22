@@ -5,51 +5,53 @@
 <entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="3" lineNum="19" pc="268435460" symbol="initialize"/>
 <entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="26" pc="268435479" symbol="compute"/>
 <entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="28" pc="268435483" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="29" pc="268435496" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="31" pc="268435500" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="32" pc="268435519" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="33" pc="268435529" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="35" pc="268435539" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="36" pc="268435549" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="37" pc="268435559" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="40" pc="268435620" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="47" pc="268435659" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="48" pc="268436482" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="50" pc="268437834" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="51" pc="268437841" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="52" pc="268437852" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="53" pc="268437859" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="56" pc="268437872" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="57" pc="268437890" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="58" pc="268437919" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="59" pc="268437948" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="61" pc="268437977" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="62" pc="268437995" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="63" pc="268438024" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="64" pc="268438053" symbol="compute"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="5" lineNum="67" pc="268438083" symbol="log"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="5" lineNum="69" pc="268438087" symbol="log"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="74" pc="268438113" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="76" pc="268438117" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="77" pc="268438153" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="79" pc="268438165" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="80" pc="268438184" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="81" pc="268438203" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="82" pc="268438230" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="84" pc="268438257" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="87" pc="268438327" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="88" pc="268438377" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="89" pc="268438427" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="91" pc="268438483" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="92" pc="268438527" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="93" pc="268438577" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="95" pc="268438627" symbol="onUpdate"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldApp.mc" id="8" lineNum="5" pc="268438695" symbol="initialize"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldApp.mc" id="8" lineNum="6" pc="268438699" symbol="initialize"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldApp.mc" id="9" lineNum="9" pc="268438718" symbol="onStart"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldApp.mc" id="10" lineNum="12" pc="268438723" symbol="onStop"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldApp.mc" id="11" lineNum="15" pc="268438728" symbol="getInitialView"/>
-<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldApp.mc" id="11" lineNum="16" pc="268438732" symbol="getInitialView"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="29" pc="268435490" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="31" pc="268435494" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="32" pc="268435507" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="34" pc="268435511" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="35" pc="268435530" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="36" pc="268435540" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="38" pc="268435550" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="39" pc="268435560" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="40" pc="268435570" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="43" pc="268435631" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="50" pc="268435670" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="51" pc="268436493" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="53" pc="268437845" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="54" pc="268437852" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="55" pc="268437863" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="56" pc="268437870" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="59" pc="268437883" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="60" pc="268437901" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="61" pc="268437930" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="62" pc="268437959" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="64" pc="268437988" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="65" pc="268438006" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="66" pc="268438035" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="4" lineNum="67" pc="268438064" symbol="compute"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="5" lineNum="70" pc="268438094" symbol="log"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="5" lineNum="72" pc="268438098" symbol="log"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="77" pc="268438124" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="79" pc="268438128" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="80" pc="268438164" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="82" pc="268438176" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="83" pc="268438195" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="84" pc="268438214" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="85" pc="268438241" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="87" pc="268438268" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="90" pc="268438338" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="91" pc="268438388" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="92" pc="268438438" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="94" pc="268438494" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="95" pc="268438538" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="96" pc="268438588" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldView.mc" id="6" lineNum="98" pc="268438638" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldApp.mc" id="8" lineNum="5" pc="268438706" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldApp.mc" id="8" lineNum="6" pc="268438710" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldApp.mc" id="9" lineNum="9" pc="268438729" symbol="onStart"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldApp.mc" id="10" lineNum="12" pc="268438734" symbol="onStop"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldApp.mc" id="11" lineNum="15" pc="268438739" symbol="getInitialView"/>
+<entry filename="/home/developer/eclipse-workspace/UTMField/source/LatLonFieldApp.mc" id="11" lineNum="16" pc="268438743" symbol="getInitialView"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388899" method="true" symbol="log"/>
@@ -81,25 +83,25 @@
 <entry id="10" object="true" symbol="UTMFieldApp"/>
 </symbolTable>
 <localVars>
-<entry endPc="268438082" name="Lon" stackId="4" startPc="268435483"/>
-<entry endPc="268438082" name="n" stackId="11" startPc="268435483"/>
-<entry endPc="268438082" name="m" stackId="5" startPc="268435483"/>
-<entry endPc="268438082" name="ft" stackId="6" startPc="268435483"/>
-<entry endPc="268438082" name="Letter" stackId="9" startPc="268435483"/>
-<entry endPc="268438082" name="latlon" stackId="2" startPc="268435483"/>
-<entry endPc="268438082" name="e" stackId="10" startPc="268435483"/>
-<entry endPc="268438082" name="Lat" stackId="3" startPc="268435483"/>
-<entry endPc="268438082" name="Easting" stackId="7" startPc="268435483"/>
-<entry endPc="268438082" name="Northing" stackId="8" startPc="268435483"/>
-<entry endPc="268438083" name="info" stackId="1" startPc="268435479"/>
-<entry endPc="268438113" name="n" stackId="1" startPc="268438083"/>
-<entry endPc="268438694" name="L" stackId="5" startPc="268438117"/>
-<entry endPc="268438694" name="ymid" stackId="3" startPc="268438117"/>
-<entry endPc="268438694" name="R" stackId="4" startPc="268438117"/>
-<entry endPc="268438694" name="xmid" stackId="2" startPc="268438117"/>
-<entry endPc="268438695" name="dc" stackId="1" startPc="268438113"/>
-<entry endPc="268438723" name="state" stackId="1" startPc="268438718"/>
-<entry endPc="268438728" name="state" stackId="1" startPc="268438723"/>
+<entry endPc="268438093" name="Lon" stackId="4" startPc="268435483"/>
+<entry endPc="268438093" name="n" stackId="11" startPc="268435483"/>
+<entry endPc="268438093" name="m" stackId="5" startPc="268435483"/>
+<entry endPc="268438093" name="ft" stackId="6" startPc="268435483"/>
+<entry endPc="268438093" name="Letter" stackId="9" startPc="268435483"/>
+<entry endPc="268438093" name="latlon" stackId="2" startPc="268435483"/>
+<entry endPc="268438093" name="e" stackId="10" startPc="268435483"/>
+<entry endPc="268438093" name="Lat" stackId="3" startPc="268435483"/>
+<entry endPc="268438093" name="Easting" stackId="7" startPc="268435483"/>
+<entry endPc="268438093" name="Northing" stackId="8" startPc="268435483"/>
+<entry endPc="268438094" name="info" stackId="1" startPc="268435479"/>
+<entry endPc="268438124" name="n" stackId="1" startPc="268438094"/>
+<entry endPc="268438705" name="L" stackId="5" startPc="268438128"/>
+<entry endPc="268438705" name="ymid" stackId="3" startPc="268438128"/>
+<entry endPc="268438705" name="R" stackId="4" startPc="268438128"/>
+<entry endPc="268438705" name="xmid" stackId="2" startPc="268438128"/>
+<entry endPc="268438706" name="dc" stackId="1" startPc="268438124"/>
+<entry endPc="268438734" name="state" stackId="1" startPc="268438729"/>
+<entry endPc="268438739" name="state" stackId="1" startPc="268438734"/>
 </localVars>
 <annotations/>
 <dataEntryOffsetMappings>

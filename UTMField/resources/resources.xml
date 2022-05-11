@@ -1,5 +1,4 @@
 <resources>
-    <string id="AppName">LatLonField</string>
-
+    <string id="AppName">UTMField</string>
     <bitmap id="LauncherIcon" filename="drawables/launcher_icon.png" />
 </resources>
